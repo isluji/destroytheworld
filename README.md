@@ -1,2 +1,2 @@
 # destroytheworld
-Curso Devslopes: Android N - Lección 2.13
+Curso Devslopes: Android N - Secciones 1.4 y 2.13
